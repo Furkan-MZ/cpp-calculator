@@ -1,0 +1,16 @@
+# Build directories
+build/
+bin/
+obj/
+
+# Compiled files
+*.o
+*.a
+*.so
+*.exe
+calculator
+
+# IDE files
+.vscode/
+*.swp
+*.swo
